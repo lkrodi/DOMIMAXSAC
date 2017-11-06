@@ -1,0 +1,21 @@
+Files:
+-calculaFecha.php -> obtiene la fecha actual en formato UTF-8 p.m. y a.m.
+-eliminar_registro.php -> elimina un registro de la tabla ordenotn.
+-errores.php -> proporciona los mensajes de error y de aceptaci�n.
+-reporteProforma.php -> inserta(BD) y genera el reporte PDF de la proforma.
+
+Modelos:
+-Conexion.php -> obtiene la conexi�n al servidor y BD en mediante la API de PDO.
+-VehiculosData.php -> crea las consultas SQL y todo el CRUD del sistema completo.
+-Reportes.php -> crea las configuraciones para los reportes PDF.
+-domdpf.php -> es la clase para generar archivos PDF.
+
+Vistas:
+-listado.php -> lista el total de registros del sistema.
+-editar.php -> visualiza el detalle de un registro y los actualiza.
+-insertar.php -> agrega un nuevo registro al sistema.
+-proforma.php -> visualiza el detalle de un registro generado por el usuario.
+-buscar_rango_fechas.php -> busca un registro por fechas dadas.
+-buscar_proforma.php -> busca un registro de una proforma.
+-buscar_factura -> busca si existen facturas generadas.
+-header.php, footer.php -> encabezado y pi� de p�gina que contiene los metadatos.

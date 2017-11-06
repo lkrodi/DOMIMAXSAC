@@ -1,0 +1,8 @@
+if (isset($_POST['botonBTN'])) {
+  $arreglo = [];
+  foreach ($_POST as $key => $value):
+    if (strpos($key, 'campo') === 0):
+      array_push($arreglo, $value);
+    endif;
+  endforeach;
+}

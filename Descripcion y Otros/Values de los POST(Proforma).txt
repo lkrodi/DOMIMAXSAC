@@ -1,0 +1,10 @@
+/*
+0 => Fecha de registro
+1 => Marca
+2 => Placa
+3 => Modelo de vehiculo
+4 => Carroceria
+5 => Color
+6 => Kilometraje
+7 => Sede y/o Direccion
+ */

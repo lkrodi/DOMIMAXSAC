@@ -1,0 +1,58 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	background: linear-gradient(
+				220deg,
+				#4AF5C7,
+				rgba(0,0,0,.8)
+	);
+	min-height: 100vh;
+	font-family: 'Lato', sans-serif;
+}
+
+.login{
+	width: 30%;
+	background: rgba(255,255,255,.2);
+	margin: auto;
+	padding: 2em 1em;
+}
+
+h1,h2{
+	text-align: center;
+	color: #fff;
+}
+
+.input{
+	display: block;
+	width: 100%;
+	margin-bottom: 1em;
+	border: none;
+	line-height: 2.5;
+	padding: 0 1em;
+}
+
+.envio{
+	display: block;
+	width: 100%;
+	background: teal;
+	color: #fff;
+	border: none;
+	line-height: 2.5;
+	text-transform: uppercase;
+	font-size: 1.1em;
+}
+
+footer{
+	font-size: 11px;
+	color: #fff;
+	text-align: center;
+}
+
+footer:hover{
+	font-size: 15px;
+	color: #6F6;
+	transition-duration: 2s;
+	cursor: pointer;
+}

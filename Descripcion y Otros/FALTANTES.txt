@@ -1,0 +1,19 @@
+﻿(TERMINADO)Los OTN deben ser iguales.
+(ELIMINADO)Verificar correctamente la hora de inicio y termino.
+(TERMINADO)Verificar  el formato de la fecha de ingreso.
+(TERMINADO)Verificar la placa correctamente.
+(TERMINADO)Kilometraje sea solo numeros maximo 8 bytes.
+(TERMINADO)Extraer los campos de descripcion dinamicos en un solo arreglo.
+(TERMINADO)Extraer los campos de cantidad dinamicos en un solo arreglo.
+(TERMINADO)Extraer los campos precio dinamicos en un solo arreglo.
+(TERMINADO)Extraer los campos de descripcion, cantidad y precio generados desde la misma p�gina dinamica.
+(TERMINADO)Extraer el campo total precio.
+
+(PENDIENTE)Detalle de una proforma existente en la BD.
+(PENDIENTE)Insertar todo en la tabla proforma de la BD.
+(TERMINADO)Reporte de la proforma individual.
+(PENDIENTE)Reporte del OTN individual.
+(PENDIENTE)Reporte de todos los registros de la proforma.
+(TERMINADO)Reporte de todos los registros del OTN.
+(TERMINADO)Login de acceso al sistema
+
